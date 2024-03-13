@@ -18,6 +18,5 @@ int main(void)
     printf (" value %zu = %zu\n", sizeof(5.0L), sizeof(five_dl));
     printf (" value %zu = %zu\n", sizeof ('x'), sizeof(x));
 
-
     return 0;
 }
